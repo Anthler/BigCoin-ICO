@@ -8,10 +8,10 @@
     "parcel-bundler": "^1.10.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-scroll-to-component": "^1.0.2",
     "video-react": "^0.13.7",
-    "web3": "^1.0.0-beta.37"
+    "web3": "^1.10.4"
   },
   "scripts": {
     "start": "react-scripts start",
